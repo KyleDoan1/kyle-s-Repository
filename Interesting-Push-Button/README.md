@@ -23,3 +23,4 @@ void loop() {
   }
 ```
 ## Project Visuals
+![Pen touching copper tape](15EFA1F0-B9AC-40B4-9EF9-B18CDA517628.jpeg)
