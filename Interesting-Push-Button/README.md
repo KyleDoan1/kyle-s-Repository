@@ -24,3 +24,6 @@ void loop() {
 ```
 ## Project Visuals
 ![Pen touching copper tape](15EFA1F0-B9AC-40B4-9EF9-B18CDA517628.jpeg)
+![Pen not touching copper tape] (77D9A48A-7875-433F-A296-5AE52374DF94.jpeg)
+
+
