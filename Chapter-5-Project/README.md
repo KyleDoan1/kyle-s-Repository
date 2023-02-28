@@ -108,5 +108,5 @@ void loop() {
 }
 
 ## Project Visuals
-![Photo of Game](77B63C23-D81C-4105-A616-71D1E23C2003.jpeg)
+![Photo of Game](F9AC40BD-7704-4E58-896C-9F5B0076652E.jpeg)
 ![Video of Game](
