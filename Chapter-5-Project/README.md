@@ -106,3 +106,8 @@ void loop() {
     digitalWrite(leftred, HIGH);
   } else {digitalWrite(leftred, LOW);}
 }
+
+
+## Project Visuals
+![Photo of Game](77B63C23-D81C-4105-A616-71D1E23C2003.jpeg)
+![Video of Game](
