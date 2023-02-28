@@ -3,7 +3,7 @@
 Push Button game that includes LEDS
 
 ##Project Code
-'''
+```
 int rightbutton = 12;
 int leftbutton = 13;
 int leftred = 2;
