@@ -106,6 +106,7 @@ void loop() {
     digitalWrite(leftred, HIGH);
   } else {digitalWrite(leftred, LOW);}
 }
+~~~
 
 ## Project Visuals
 ![Photo of Game](F9AC40BD-7704-4E58-896C-9F5B0076652E.jpeg)
