@@ -110,4 +110,4 @@ void loop() {
 ```
 ## Project Visuals
 ![Photo of Game](F9AC40BD-7704-4E58-896C-9F5B0076652E.jpeg)
-![Video of Game](
+![Video of Game](IMG_1729.MOV)
