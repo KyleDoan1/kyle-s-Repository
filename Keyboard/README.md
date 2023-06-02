@@ -1,6 +1,7 @@
 # Keyboard (WASD)
 ## Project Description
 Push Buttons on Leonardo Arduino to imitate a keyboard of WASD
+Problem: Can't get the letters to stay inputted while holding it down and stop when not pressed down. We want it to imitate an actual keyboard where if you press down, it'll input but also if you hold it down it'll stay input but stop when you let go.
 
 ## Project Code
 ```
