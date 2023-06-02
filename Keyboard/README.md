@@ -39,7 +39,7 @@ void loop() {
   if (WbuttonState == HIGH){
     WpreviousButtonState = 1;
   }
-   if (WpreviousButtonState == 1){
+   if (WbuttonState == HIGH && WpreviousButtonState == 1){
     Keyboard.print("w");
   }
   if(WbuttonState == LOW){
@@ -52,7 +52,7 @@ void loop() {
     if (AbuttonState == HIGH){
     ApreviousButtonState = 1;
   }
-   if (ApreviousButtonState == 1){
+   if (AbuttonState == HIGH && ApreviousButtonState == 1){
     Keyboard.print("a");
   }
   if(AbuttonState == LOW){
@@ -65,7 +65,7 @@ void loop() {
    if (SbuttonState == HIGH){
     SpreviousButtonState = 1;
   }
-   if (SpreviousButtonState == 1){
+   if (SbuttonState == HIGH && SpreviousButtonState == 1){
     Keyboard.print("s");
   }
   if(SbuttonState == LOW){
